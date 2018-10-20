@@ -1,0 +1,14 @@
+.footer {
+  background-color: #E3A508;
+  padding: 24px;
+}
+
+.Footer-text {
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.Footer-text a {
+  color: white;
+}

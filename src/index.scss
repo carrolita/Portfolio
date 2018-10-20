@@ -1,0 +1,86 @@
+@import "~bootstrap/scss/bootstrap";
+
+
+html {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+}
+
+#root {
+  margin: 0;
+  height: 100%;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  font-size: 22px;
+}
+
+.image {
+  display: flex;
+  justify-content: flex-start;
+  width: 228px;
+  height: 228px;
+  background-color: #41a7b3;
+  box-shadow: 1px 1px	#989898;
+}
+
+.item-image {
+  padding: 40px;
+}
+
+.App__main-container{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex: row;
+}
+
+.button {
+  background-color: #51BBF4;
+  border-radius: 100px;
+  height: 30px;
+  font-size: 24px;
+}
+
+.button:hover {
+  background-color: darkred;
+}
+
+.presentation {
+  font-size: 18px;
+}
+
+.Tech {
+  font-size: 18px;
+  background-color: pink;
+  color: blue;
+}
+
+.tech-container {
+  background-color: pink;
+  max-width: 300px;
+
+}
+
+.name {
+  font-size: 50px;
+}
+
+.portfolio-btn {
+  color: #EAA944;
+  background-color: #FAE7C8;
+  border-radius: 50px !important;
+  padding-left: 16px !important;
+  padding-right: 16px !important;
+}
