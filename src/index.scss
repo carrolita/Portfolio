@@ -1,4 +1,13 @@
 @import "~bootstrap/scss/bootstrap";
+@font-face {
+    font-family: bigJohn;
+    src: url("/fonts/BIG JOHN.otf") format("opentype");
+}
+
+@font-face {
+  font-family: avenirLight;
+  src: url("/fonts/Avenir-Light.ttf");
+}
 
 
 html {
@@ -81,6 +90,14 @@ body {
   color: #EAA944;
   background-color: #FAE7C8;
   border-radius: 50px !important;
-  padding-left: 16px !important;
-  padding-right: 16px !important;
+  padding: 16px 32px !important;
+  font-family: bigJohn !important;
+}
+
+.portfolio-heading {
+  font-family: bigJohn !important;
+}
+
+.portfolio-text {
+  font-family: avenirLight !important;
 }
