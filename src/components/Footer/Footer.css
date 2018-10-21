@@ -1,6 +1,7 @@
 .footer {
   background-color: #E3A508;
   padding: 24px;
+  background-image: linear-gradient(to right, #E8881A , #FFBD2A);
 }
 
 .Footer-text {
