@@ -1,22 +1,32 @@
 [
   {
-    "link": "Test asignment",
-    "description": "Test asignment",
-    "image": ""
+    "link": "github.com/carrolita/bunny",
+    "description": "Hero video that is responsive and retrieves the right video file depending on the size of the screen using media queries using HTML5 and CSS",
+    "image": "/images/bunny.png"
   },
   {
     "link": "Test asignment",
-    "description": "Test asignment",
-    "image": ""
+    "description": "Radio player build in React using Sveriges Radio's API",
+    "image": "/images/sverigesradio.png"
+  },
+  {
+    "link": "",
+    "description": "Clock using React state, build with HTML5, CSS and JavaScript",
+    "image": "/images/clock.png"
   },
   {
     "link": "Test asignment",
-    "description": "Test asignment",
-    "image": ""
+    "description": "VAT-calculator build with React",
+    "image": "/images/calculator.png"
   },
   {
     "link": "Test asignment",
-    "description": "Test asignment",
-    "image": ""
+    "description": "Copy the original design as close as possible using React, HTML5 and CSS",
+    "image": "/images/Design.png"
+  },
+  {
+    "link": "Test asignment",
+    "description": "A copy of the Norweigan flight booking form using SASS",
+    "image": "/images/Sass.png"
   }
 ]

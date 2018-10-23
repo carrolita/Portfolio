@@ -25,7 +25,7 @@ class LandingPage extends Component {
               from family members who works with programming.
               They challenged my to try it on and I did. Now during
               The Bootcamp I really like it. With programming you
-              learn the stuff all the time and it’s really really fun!
+              learn new stuff all the time and it’s really really fun!
                </p>
             <div>
               <a target="_blank" className="btn portfolio-btn" href="https://github.com/carrolita">See my Github</a>
@@ -44,12 +44,12 @@ class LandingPage extends Component {
         <div className="row mt-5">
           {
             assignments.map(item =>
-              <div className="col-md-4 col-sm-12 mt-3">
-                <div className="card">
+              <div className="col-md-4 col-sm-12 mt-3 assignments-col">
+                <div className="card assignments-card">
                   <div className="card-body">
                     <p className="card-text"><small className="text-muted portfolio-text">{item.description}</small></p>
                   </div>
-                  <img className="card-img-bottom" src={item.image} alt={item.description} />
+                  <img className="card-img-bottom img-fluid" src={item.image} alt={item.description} />
                 </div>
               </div>
             )
