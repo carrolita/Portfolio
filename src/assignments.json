@@ -1,32 +1,32 @@
 [
   {
     "link": "github.com/carrolita/bunny",
-    "description": "Hero video that is responsive and retrieves the right video file depending on the size of the screen using media queries using HTML5 and CSS",
+    "description": "Responsive hero video built in HTML5 and CSS",
     "image": "/images/bunny.png"
   },
   {
     "link": "Test asignment",
-    "description": "Radio player build in React using Sveriges Radio's API",
+    "description": "Radio player built in React using Sveriges Radio's API",
     "image": "/images/sverigesradio.png"
   },
   {
     "link": "",
-    "description": "Clock using React state, build with HTML5, CSS and JavaScript",
+    "description": "Clock built in React, build with HTML5, CSS and JavaScript",
     "image": "/images/clock.png"
   },
   {
     "link": "Test asignment",
-    "description": "VAT-calculator build with React",
+    "description": "VAT-calculator built in React",
     "image": "/images/calculator.png"
   },
   {
     "link": "Test asignment",
-    "description": "Copy the original design as close as possible using React, HTML5 and CSS",
+    "description": "Design brief built in React, HTML5 and CSS",
     "image": "/images/Design.png"
   },
   {
     "link": "Test asignment",
-    "description": "A copy of the Norweigan flight booking form using SASS",
+    "description": "Flight booking form built in SASS",
     "image": "/images/Sass.png"
   }
 ]
