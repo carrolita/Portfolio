@@ -47,7 +47,7 @@ class LandingPage extends Component {
         <h1 className="h1 mt-5 portfolio-heading text-center text-md-left">Tech</h1>
         <div className="row justify-content-center">
           <div className="col">
-            <h4 className="text-muted portfolio-text">480 coding hours • 50+ individual tasks • HTML5, CSS, SASS, Flexbox, Javascript, ES6, JSX, React, Node • 6 Sprints with demos together with companies like Volumental, Bonniers and Comprend</h4>
+            <h4 className="text-muted portfolio-text text-center text-md-left">480 coding hours • 50+ individual tasks • HTML5, CSS, SASS, Flexbox, Javascript, ES6, JSX, React, Node • 6 Sprints with demos together with companies like Volumental, Bonniers and Comprend</h4>
           </div>
         </div>
 
