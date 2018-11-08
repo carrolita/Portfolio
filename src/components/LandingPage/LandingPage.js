@@ -74,6 +74,7 @@ class LandingPage extends Component {
               CSS3<br/>
               JavaScript ES6<br/>
               React<br/>
+              Node.js<br/>
               Github<br/>
             </p>
           </div>
@@ -100,7 +101,7 @@ class LandingPage extends Component {
           </div>
         </div>
 
-        <h1 className="mt-5 portfolio-heading text-left">Studies</h1>
+        <h1 className="mt-5 portfolio-heading text-left">Experience</h1>
         <div className="row justify-content-left mt-3">
           <div className="col-4">
             <h4 className="text-muted portfolio-heading">Frontend Developer</h4>
@@ -114,21 +115,21 @@ class LandingPage extends Component {
                 individual tasks (in HTML, CSS,
                 JavaScript, JSX, Node.js)
                 and 6 sprints with companies like
-                Svenska spel and Fyndiq
+                Svenska spel and Fyndiq <br />
                 Sthlm Sep-Nov 2018</p>
           </div>
           <div className="col-4">
             <h4 className="text-muted portfolio-heading">Banyan Center</h4>
-              <p className="text-muted portfolio-text text-center text-md-left">2 years austism work/ educaction <br />
-                BanyanCenter is a psychologist's reception for small children with autism spectrum diagnosis. BanyanCenter works with early intensive behavioral interventions (eibi) for children with autism. I worked with children with autism for 2 years.
+              <p className="text-muted portfolio-text text-center text-md-left">2 years work with austism/ educaction <br />
+                Banyan Center is a psychologist's reception for small children with autism spectrum diagnosis. Banyan Center works with early intensive behavioral interventions (eibi) for children with autism. <br />
                 Sthlm 2014-2016</p>
           </div>
           <div className="col-4">
-            <h4 className="text-muted portfolio-heading">Vackstanas gymnasiet</h4>
-              <p className="text-muted portfolio-text text-center text-md-left">3 years at (gymnasiet) <br />
-                 I learned Textile Shape and Design. We created our own clothes collection
-                 and had fashion shows.
-                  Sthlm, 2008-2011.</p>
+            <h4 className="text-muted portfolio-heading">Stockholm stad</h4>
+              <p className="text-muted portfolio-text text-center text-md-left">7 years working as a pre-school teacher <br />
+                 I have work as a pre-school teacher for many years and passing the years I learned a lot about working in teams,
+                 deal with stress and having fun with the people around me.<br />
+                  Sthlm, 2011-2018.</p>
 
           </div>
         </div>

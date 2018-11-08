@@ -1,7 +1,7 @@
 .footer {
   background-color: #E3A508;
   padding: 24px;
-  background-image: linear-gradient(to right, #E8881A , #FFBD2A);
+  background-image: linear-gradient(to right, #5c5757 , black);
 }
 
 .Footer-text {
@@ -12,4 +12,9 @@
 
 .Footer-text a {
   color: white;
+  font-size: 14.5px;
+}
+
+.Footer-text a:hover {
+  color: #21e6c1;
 }

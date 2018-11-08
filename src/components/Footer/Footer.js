@@ -12,6 +12,7 @@ class Footer extends Component {
             <br/>
             <a href="tel:+46738350555">+4673-835 05 55</a>
           </small></p>
+          <p className="made-by">Made with ❤️ by me</p>
         </div>
       </nav>
     );
