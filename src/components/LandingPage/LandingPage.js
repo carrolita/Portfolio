@@ -16,8 +16,8 @@ class LandingPage extends Component {
             </small></p>
           </div>
           <div className="col-md-9 col-sm-12">
-            <h5 className="text-muted portfolio-text">Caroline Granlund</h5>
-            <h1 className="display-4 portfolio-heading">Frontend Developer</h1>
+            <h5 className="text-muted portfolio-text text-center text-md-left">Caroline Granlund</h5>
+            <h1 className="display-5 portfolio-heading text-center text-md-left">Frontend Developer</h1>
             <p className="text-muted portfolio-text">Hi,<br/>
               My name is Caroline and I have been working as a
               Pre-school teacher for many years. Over the years
@@ -37,14 +37,14 @@ class LandingPage extends Component {
                 differente kinds of people and in both stressful and calm situations.
                 Try me!
              </p>
-            <div>
+            <div className="row justify-content-center justify-content-md-start">
               <a target="_blank" className="btn portfolio-btn" href="https://github.com/carrolita">See my Github</a>
             </div>
           </div>
         </div>
 
 
-        <h1 className="mt-5 portfolio-heading">Tech</h1>
+        <h1 className="h1 mt-5 portfolio-heading text-center text-md-left">Tech</h1>
         <div className="row justify-content-center">
           <div className="col">
             <h4 className="text-muted portfolio-text">480 coding hours • 50+ individual tasks • HTML5, CSS, SASS, Flexbox, Javascript, ES6, JSX, React, Node • 6 Sprints with demos together with companies like Volumental, Bonniers and Comprend</h4>
@@ -101,10 +101,10 @@ class LandingPage extends Component {
           </div>
         </div>
 
-        <h1 className="mt-5 portfolio-heading text-left">Experience</h1>
+        <h1 className="h1 mt-5 portfolio-heading text-left text-center text-md-left">Experience</h1>
         <div className="row justify-content-left mt-3">
-          <div className="col-4">
-            <h4 className="text-muted portfolio-heading">Frontend Developer</h4>
+          <div className="col-12 col-md-4 mt-3">
+            <h4 className="h4 text-muted portfolio-heading text-center text-md-left">Frontend Developer</h4>
               <p className="text-muted portfolio-text text-center text-md-left">Full time 12 week bootcamp / <br />
                 intenstiv program. Covering
                 everything from basic of
@@ -118,14 +118,14 @@ class LandingPage extends Component {
                 Svenska spel and Fyndiq <br />
                 Sthlm Sep-Nov 2018</p>
           </div>
-          <div className="col-4">
-            <h4 className="text-muted portfolio-heading">Banyan Center</h4>
+          <div className="col-12 col-md-4 mt-3">
+            <h4 className="h4 text-muted portfolio-heading text-center text-md-left">Banyan Center</h4>
               <p className="text-muted portfolio-text text-center text-md-left">2 years work with austism/ educaction <br />
                 Banyan Center is a psychologist's reception for small children with autism spectrum diagnosis. Banyan Center works with early intensive behavioral interventions (eibi) for children with autism. <br />
                 Sthlm 2014-2016</p>
           </div>
-          <div className="col-4">
-            <h4 className="text-muted portfolio-heading">Stockholm stad</h4>
+          <div className="col-12 col-md-4 mt-3">
+            <h4 className="h4 text-muted portfolio-heading text-center text-md-left">Stockholm stad</h4>
               <p className="text-muted portfolio-text text-center text-md-left">7 years working as a pre-school teacher <br />
                  I have work as a pre-school teacher for many years and passing the years I learned a lot about working in teams,
                  deal with stress and having fun with the people around me.<br />
