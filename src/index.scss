@@ -13,6 +13,7 @@
 html {
   margin: 0;
   height: 100%;
+  border-bottom-right-radius: pink;
 }
 
 body {
@@ -91,6 +92,7 @@ body {
   border-radius: 50px !important;
   padding: 14px 32px !important;
   font-family: bigJohn !important;
+  box-shadow: 0.5px 0.5px 0.5px grey;
 }
 
 .portfolio-btn:hover {

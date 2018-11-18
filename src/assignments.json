@@ -1,31 +1,50 @@
 [
   {
-    "link": "github.com/carrolita/bunny",
+    "link": "/bunny",
+    "title": "Big Buck Bunny",
     "description": "Responsive hero video built in HTML5 and CSS",
-    "image": "/images/bunny.png"
+    "image": "/images/bunny.png",
+    "liveLink": "/test",
+    "githubLink": "/github",
+    "longDescription": "Lorem ipsum dolor sit amet, per ne iudico soluta interpretaris. Modo epicuri singulis ei mei, eu nec tantas officiis. Eos malorum prompta at, no modus maiorum vis. Qui ad agam debet tacimates, cu unum verear fierent eum. Ex impetus aperiam deleniti nec, nec diam labore aliquip an, esse denique definiebas cu sed.Ei mel everti perpetua gloriatur, graeci deleniti duo ne. Te deserunt facilisis vix, usu ea autem feugait, ut illum eligendi invenire eam. Mea hinc delectus ad, numquam sadipscing neglegentur sit in, facer probatus est at. Ut vix aliquando dissentiunt, vim consulatu rationibus temporibus ad.",
+    "code": [
+      "test1",
+      "test2",
+      "test3"
+    ],
+    "toolBox": [
+      "test1",
+      "test2",
+      "test3"
+    ],
+    "more": [
+      "test1",
+      "test2",
+      "test3"
+    ]
   },
   {
-    "link": "Test asignment",
+    "link": "/radioplayer",
     "description": "Radio player built in React using Sveriges Radio's API",
     "image": "/images/sverigesradio.png"
   },
   {
-    "link": "",
+    "link": "/clock",
     "description": "Clock built in React, build with HTML5, CSS and JavaScript",
     "image": "/images/clock.png"
   },
   {
-    "link": "Test asignment",
+    "link": "/calculator",
     "description": "VAT-calculator built in React",
     "image": "/images/calculator.png"
   },
   {
-    "link": "Test asignment",
+    "link": "/design",
     "description": "Design brief built in React, HTML5 and CSS",
     "image": "/images/Design.png"
   },
   {
-    "link": "Test asignment",
+    "link": "/sass",
     "description": "Flight booking form built in SASS",
     "image": "/images/Sass.png"
   }

@@ -1,6 +1,7 @@
 import React, {Component} from "react";
 import "./LandingPage.css";
 import assignments from '../../assignments.json';
+import {Link} from "react-router-dom";
 
 class LandingPage extends Component {
   render() {
@@ -8,7 +9,7 @@ class LandingPage extends Component {
       <>
         <div className="row justify-content-center">
           <div className="col-md-3 col-sm-12 profile-image-container order-2 order-sm-2 order-md-0">
-            <img className="rounded img-fluid" src="images/carrolita-small.jpg" alt="Caroline Granlund"/>
+            <img className="img-fluid profil-image" src="images/carrolita-small.jpg" alt="Caroline Granlund"/>
             <p><small>
               <a className="text-muted portfolio-text" href="mailto:granlundcaroline@gmail.com">granlundcaroline@gmail.com</a>
               <br/>
@@ -17,7 +18,7 @@ class LandingPage extends Component {
           </div>
           <div className="col-md-9 col-sm-12">
             <h5 className="text-muted portfolio-text text-center text-md-left">Caroline Granlund</h5>
-            <h1 className="display-5 portfolio-heading text-center text-md-left">Frontend Developer</h1>
+            <h1 className="Frontend-text isplay-5 portfolio-heading text-center text-md-left">Frontend Developer</h1>
             <p className="text-muted portfolio-text">Hi,<br/>
               My name is Caroline and I have been working as a
               Pre-school teacher for many years. Over the years
@@ -54,14 +55,14 @@ class LandingPage extends Component {
         <div className="row mt-5">
           {
             assignments.map(item =>
-              <div className="col-md-4 col-sm-12 mt-3 assignments-col">
+              <Link to={item.link} className="col-md-4 col-sm-12 mt-3 assignments-col">
                 <div className="card assignments-card">
                   <div className="card-body">
                     <p className="card-text"><small className="text-muted portfolio-text">{item.description}</small></p>
                   </div>
                   <img className="card-img-bottom img-fluid" src={item.image} alt={item.description} />
                 </div>
-              </div>
+              </Link>
             )
           }
         </div>
