@@ -1,51 +1,154 @@
 [
   {
-    "link": "/bunny",
-    "title": "Big Buck Bunny",
-    "description": "Responsive hero video built in HTML5 and CSS",
-    "image": "/images/bunny.png",
-    "liveLink": "/test",
-    "githubLink": "/github",
-    "longDescription": "Lorem ipsum dolor sit amet, per ne iudico soluta interpretaris. Modo epicuri singulis ei mei, eu nec tantas officiis. Eos malorum prompta at, no modus maiorum vis. Qui ad agam debet tacimates, cu unum verear fierent eum. Ex impetus aperiam deleniti nec, nec diam labore aliquip an, esse denique definiebas cu sed.Ei mel everti perpetua gloriatur, graeci deleniti duo ne. Te deserunt facilisis vix, usu ea autem feugait, ut illum eligendi invenire eam. Mea hinc delectus ad, numquam sadipscing neglegentur sit in, facer probatus est at. Ut vix aliquando dissentiunt, vim consulatu rationibus temporibus ad.",
+    "link": "/snackchat",
+    "title": "SnackChat",
+    "description": "SnackChat, final project on Technigo",
+    "image": "/images/snackchat3.png",
+    "liveLink": "https://snackchat.carolinegranlund.com/",
+    "githubLink": "https://github.com/carrolita/snackchat",
+    "longDescription": "SnackChat is my final project on Technigo. I built this chat by using JavaScript, React and Node.",
     "code": [
-      "test1",
-      "test2",
-      "test3"
+      "JavaScript ES6",
+      "Node.js",
+      "React",
+      "SASS",
+      "HTML5",
+      "GitHub",
+      "CSS3"
     ],
     "toolBox": [
-      "test1",
-      "test2",
-      "test3"
+      "IntelliJ IDEA",
+      "Postman",
+      "Trello",
+      "Bootstrap"
     ],
     "more": [
-      "test1",
-      "test2",
-      "test3"
+      "Concept development",
+      "Agile methodology"
     ]
   },
   {
     "link": "/radioplayer",
+    "title": "Radio player built in React using Sveriges radio Api's",
     "description": "Radio player built in React using Sveriges Radio's API",
-    "image": "/images/sverigesradio.png"
+    "image": "/images/radioplayer.png",
+    "liveLink": "https://radio-player.carolinegranlund.com/",
+    "githubLink": "https://github.com/carrolita/radio-player",
+    "longDescription": "Using the API from Sveriges Radio to fetch data and render a list of radio channels.",
+    "code": [
+      "HTML5",
+      "CSS3",
+      "JavaScript ES5",
+      "React",
+      "SASS",
+      "GitHub",
+      "Node.js"
+    ],
+    "toolBox": [
+      "Atom",
+      "Postman",
+      "Slack",
+      "Trello"
+    ],
+    "more": [
+      "Concept development",
+      "Agile methodology"
+    ]
   },
   {
     "link": "/clock",
-    "description": "Clock built in React, build with HTML5, CSS and JavaScript",
-    "image": "/images/clock.png"
+    "title": "Tick Tack",
+    "githubLink": "https://github.com/carrolita/clock",
+    "description": "Clock built in React and JavaScript",
+    "liveLink": "https://clock.carolinegranlund.com/",
+    "image": "/images/clock.png",
+    "code": [
+      "JavaScript ES5",
+      "React",
+      "HTML5",
+      "CSS3",
+      "GitHub"
+    ],
+    "toolBox": [
+      "Atom",
+      "Slack",
+      "Trello",
+      "GitHub"
+    ],
+    "more": [
+      "Concept development",
+      "Agile methodology"
+    ]
   },
   {
     "link": "/calculator",
-    "description": "VAT-calculator built in React",
-    "image": "/images/calculator.png"
+    "title": "Vat-calculator",
+    "githubLink": "https://github.com/carrolita/vat-calculator",
+    "description": "VAT-calculator built in JavaScript and React",
+    "liveLink": "https://vat-calculator.carolinegranlund.com/",
+    "image": "/images/vat.png",
+    "code": [
+      "JavaScript ES5",
+      "HTML5",
+      "CSS3",
+      "GitHub"
+    ],
+    "toolBox": [
+      "Atom",
+      "Slack",
+      "Trello"
+    ],
+    "more": [
+      "Concept development",
+      "Agile methodology"
+    ]
   },
   {
     "link": "/design",
-    "description": "Design brief built in React, HTML5 and CSS",
-    "image": "/images/Design.png"
+    "title": "DESIGN BRIEF",
+    "githubLink": "https://github.com/carrolita/design-brief",
+    "liveLink": "https://design-brief.carolinegranlund.com/",
+    "description": "Design brief built in React, HTML5 and CSS3",
+    "image": "/images/design.png",
+    "longDescription": "The purpose of this assignment was to follow a design brief and copy the design as close as possible.",
+    "code": [
+      "JavaScript ES5",
+      "React",
+      "HTML5",
+      "CSS3",
+      "GitHub"
+    ],
+    "toolBox": [
+      "Atom",
+      "Slack",
+      "Trello"
+    ],
+    "more": [
+      "Concept development",
+      "Agile methodology"
+    ]
   },
   {
     "link": "/sass",
+    "title": "Flight booking",
+    "githubLink": "https://github.com/carrolita/sass",
+    "liveLink": "https://sass.carolinegranlund.com/",
     "description": "Flight booking form built in SASS",
-    "image": "/images/Sass.png"
+    "image": "/images/Sass.png",
+    "code": [
+      "HTML5",
+      "SASS",
+      "GitHub"
+    ],
+    "toolBox": [
+      "Atom",
+      "Slack",
+      "Trello"
+    ],
+    "more": [
+      "Concept development",
+      "Agile methodology"
+    ]
   }
+
 ]

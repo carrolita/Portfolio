@@ -79,7 +79,6 @@ body {
 .tech-container {
   background-color: pink;
   max-width: 300px;
-
 }
 
 .name {
@@ -87,16 +86,16 @@ body {
 }
 
 .portfolio-btn {
-  color: #423d35;
-  background-color: #21e6c1;
+  color: black;
   border-radius: 50px !important;
   padding: 14px 32px !important;
   font-family: bigJohn !important;
   box-shadow: 0.5px 0.5px 0.5px grey;
+  background-color: #1DE9B6;
 }
 
 .portfolio-btn:hover {
-  background-color: #278ea5;
+  background-color: #00BFA5;
   color: black;
 }
 
